@@ -1,0 +1,8 @@
+public class CounterView 
+{
+	public void Display(int counterValue)
+	{
+		System.out.println(counterValue);
+
+	}
+}
